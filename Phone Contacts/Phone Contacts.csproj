@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Phone_Contacts</RootNamespace>
+    <UserSecretsId>842c34a6-472b-457c-81d3-7fee646284e4</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
